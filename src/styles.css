@@ -1,0 +1,12 @@
+/* CSS HEX */
+:root {
+    --background-color: #fef9efff;
+    --secondary-color-1: #227c9dff;
+    --secondary-color-2: #fe6d73ff;
+    --secondary-color-3: #17c3b2ff;
+    --secondary-color-4: #ffcb77ff;
+}
+
+body {
+    background-color: var(--background-color);
+}
